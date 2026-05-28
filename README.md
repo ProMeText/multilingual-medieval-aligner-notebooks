@@ -9,4 +9,4 @@ These notebooks have been created as support for multiple workshops. They aim to
 3. [Full alignment process](https://colab.research.google.com/drive/10XOcoSIm0ppebe8G18_HJUtrfwsyOskq?usp=sharing)
 
 
-All four notebooks have been last tested on 28 May 2026. Please contact us if something is wrong with one of them.  Dependencies issues may happen in the future.
+All four notebooks were last tested on 28 May 2026. Please contact us if something is wrong with one of them.  Dependencies issues may happen in the future.
